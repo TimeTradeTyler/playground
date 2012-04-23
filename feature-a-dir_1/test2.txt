@@ -1,1 +1,2 @@
+Now there is a change in this file
 This is a test for story 2
